@@ -1,0 +1,8 @@
+.music-container.play .img-container img{
+    animation-play-state: running; /* to play the animation */
+}
+
+.music-container.play .music-info{
+    opacity: 1;
+    transform: translateY(-100%);
+}
