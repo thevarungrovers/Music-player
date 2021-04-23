@@ -5,11 +5,11 @@
 body{
     height: 100vh;
     margin: 0;
-    background-image:  linear-gradient(0deg, rgb(247,247,247) 23.8% , rgb(252,221,221) 92%);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-image: linear-gradient(to right, #FFFFFF, #FFEFBA); 
 }
 
 .music-container{
